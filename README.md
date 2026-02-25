@@ -45,7 +45,7 @@ The API is secured, uses **DTOs (VO classes)**, has **global exception handling*
 | DELETE | `/delete/{id}` | Delete actor by ID |
 | DELETE | `/delete/{cat1}/{cat2}/{cat3}` | Delete actors by category |
 
-> Swagger UI is available at: `http://localhost:8080/swagger-ui/index.html`
+> Swagger UI is available at: `http://localhost:8987/ActorAPI-Swagger/swagger-ui/index.html`
 
 ---
 
